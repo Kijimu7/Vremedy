@@ -7,6 +7,7 @@
 Video: https://youtu.be/Qt0J9s22a5w
 
 ## How to play
+Method 1
 Plese provide your email from this form link. I will send you a apk file.
 https://docs.google.com/forms/d/e/1FAIpQLSe3TnQfU3lOe1umFQeTQv5qe8m2QjtUz4qTOfE1qIU8oPiXeg/viewform?usp=sf_link
 1. Install Sidequest
@@ -16,6 +17,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3TnQfU3lOe1umFQeTQv5qe8m2QjtUz4qTOfE1
 5. Locate the APK file 
 6. Go to Oculus Quest 2 and unknown source
 7. Play the Apk file
+
+Method 2
+1. Install Unity and set the version 2021.3.4f1
+2. Download zip file or close repository from this repository
+3. Go to Oculus Quest 2 menu and connect oclus link or Air link
+4. Click HomeScene in the Asset -> Scenes folder under Project
+5. press play button on Unity
+6. Should be able to play the game on the Oculus Quest 2
+
 
 
 ## Inspiration
