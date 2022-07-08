@@ -1,117 +1,55 @@
+# Vremedy
 
+This is a TINY (TINY Is Not YART ([Yet](https://github.com/CarsonChen1129/README-template) [Another](https://gist.github.com/zsim0n/1d943a0f3e5af59e1e1d91a3a1e9eae1) [README](https://github.com/matiassingers/awesome-readme/issues/117) Template)) README template. Put a brief description of the project here, and optionally include a screenshot with a nice frame:
 
-<h1 align="center"> Vremedy </h1> <br>
-<p align="center">
-  <a href="https://youtu.be/Qt0J9s22a5w">
-    <img alt="Vremedy" title="Vremedy" src="[http://i.imgur.com/VShxJHs.png](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png)](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png)" width="450">
-  </a>
-</p>
+<div align="center">
+  <kbd>
+    <img src="[https://i.imgur.com/zdY3ZC9.png](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png)" />
+  </kbd>
+</div>
 
-<p align="center">
-  GitHub in your pocket. Built with React Native.
-</p>
+## Description
 
-<p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
-  </a>
+Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-  </a>
-</p>
+### Features
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+- It's TINY. A short README is a good README.
+- List other standout qualities that'll make a potential user want to try out your project.
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+### Built with
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+- Markdown
+- Love
 
-## Introduction
+## Getting started
 
-Vremedy is based on exposure therapy, which it will let you overcome the fear through experiencing events that trigger anxiety. Also, a user can learn co-op strategies that help calm them down when they face real situations.
+### Prerequisites
 
-**Available for both iOS and Android.**
+Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
 
-<p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
-</p>
+### Install
 
-## Features
+Ideally, write a script whose usage is described here.
 
-A few of the things you can do with GitPoint:
+### Configure
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+Manual, context-specific tasks not covered in the installation process.
 
-<p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
-</p>
+### Usage
 
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
-</p>
+GIFs are useful here to see the project in action.
 
-## Feedback
+### Troubleshooting
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Or FAQs, if that's more appropriate.
 
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
+## Back matter
 
-## Contributors
+### Legal disclaimer
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-## Build Process
+### Acknowledgements
 
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
-- Clone or download the repo
-- `yarn` to install dependencies
-- `yarn run link` to link react-native dependencies
-- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
-- `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
-
-Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
-
-**Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating an [OAuth application](https://github.com/settings/applications/new) of your own. Set the "Authorization callback URL" to `gitpoint://welcome`.
-
-## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/git-point#backer)]
-
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
-
-## Sponsors [![Sponsors on Open Collective](https://opencollective.com/git-point/sponsors/badge.svg)](#sponsors)
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/git-point#sponsor)]
-
-<a href="https://opencollective.com/git-point/sponsor/0/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/1/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/2/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/3/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/4/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/5/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/6/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/7/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/8/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/9/avatar.svg"></a>
-
-## Acknowledgments
-
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Thanks to all who helped inspire this template.
