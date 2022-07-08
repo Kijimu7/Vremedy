@@ -1,11 +1,11 @@
 # Vremedy
 
-This is a TINY (TINY Is Not YART ([Yet](https://github.com/CarsonChen1129/README-template) [Another](https://gist.github.com/zsim0n/1d943a0f3e5af59e1e1d91a3a1e9eae1) [README](https://github.com/matiassingers/awesome-readme/issues/117) Template)) README template. Put a brief description of the project here, and optionally include a screenshot with a nice frame:
 
 <div align="center">
   <kbd>
     
-    ![alt text]([[http://url/to/img.png](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png)))
+    ![VremedyLogo](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png)
+
   </kbd>
 </div>
 
