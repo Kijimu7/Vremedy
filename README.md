@@ -2,8 +2,8 @@
 
 <h1 align="center"> Vremedy </h1> <br>
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+  <a href="[https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png](https://youtu.be/Qt0J9s22a5w)">
+    <img alt="GitPoint" title="GitPoint" src="[http://i.imgur.com/VShxJHs.png](https://user-images.githubusercontent.com/31402838/178075450-be31eadc-a386-4b67-9c48-595e94b624f5.png)" width="450">
   </a>
 </p>
 
