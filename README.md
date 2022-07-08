@@ -6,6 +6,16 @@
 
 Video: https://youtu.be/Qt0J9s22a5w
 
+## How to play
+1. Download the apk file from this github repository
+1. Install Sidequest
+2. Connect Oculus Quest 2 on computer
+3. Check Sidequest green icon on top left corner of the Sidequest
+4. Click Install APK file icon
+5. Locate the APK file you have download from this github repository 
+6. Go to Oculus Quest 2 and unknown source
+7. Play the Apk file
+
 
 ## Inspiration
 Over 40 million adults experience anxiety in the U.S.
